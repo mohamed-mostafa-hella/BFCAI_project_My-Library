@@ -1,0 +1,17 @@
+﻿Build started 26/08/2017 12:23:54 م.
+     1>Project "C:\Users\mohamed160287\Desktop\MyLibrary new\MyLibrary\MyLibrary.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp
+         MyForm.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\mohamed160287\Desktop\MyLibrary new\Release\MyLibrary.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\MyLibrary.book_form.resources /ASSEMBLYRESOURCE:Release\MyLibrary.borrow_info.resources /ASSEMBLYRESOURCE:Release\MyLibrary.MyForm.resources /ASSEMBLYRESOURCE:Release\MyLibrary.stu_form.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\mohamed160287\Desktop\MyLibrary new\Release\MyLibrary.pdb" /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH Release\book_form.obj
+         Release\borrow_info.obj
+         Release\MyForm.obj
+         Release\stu_form.obj
+         "Release\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         MyLibrary.vcxproj -> C:\Users\mohamed160287\Desktop\MyLibrary new\Release\MyLibrary.exe
+     1>Done Building Project "C:\Users\mohamed160287\Desktop\MyLibrary new\MyLibrary\MyLibrary.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.93
